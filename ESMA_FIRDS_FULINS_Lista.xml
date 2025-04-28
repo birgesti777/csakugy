@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<response>
+  <lst name="responseHeader">
+    <int name="status">0</int>
+    <int name="QTime">0</int>
+    <lst name="params">
+      <str name="q">FULINS</str>
+    </lst>
+  </lst>
+  <result name="response" numFound="8" start="0">
+    <doc>
+      <str name="download_link">/opt/patchutil/patches/VER_20250409_ESMA_INIT_V01/OTHER/SOURCE/FULINS_C_20171015_01of01.zip</str>
+      <str name="file_name">FULINS_C_20171015_01of01.zip</str>
+      <str name="file_type">FULINS</str>
+    </doc>
+    <doc>
+      <str name="download_link">/opt/patchutil/patches/VER_20250409_ESMA_INIT_V01/OTHER/SOURCE/FULINS_D_20171015_01of02.zip</str>
+      <str name="file_name">FULINS_D_20171015_01of02.zip</str>
+      <str name="file_type">FULINS</str>
+    </doc>
+    <doc>
+      <str name="download_link">/opt/patchutil/patches/VER_20250409_ESMA_INIT_V01/OTHER/SOURCE/FULINS_D_20171015_02of02.zip</str>
+      <str name="file_name">FULINS_D_20171015_02of02.zip</str>
+      <str name="file_type">FULINS</str>
+    </doc>
+    <doc>
+      <str name="download_link">/opt/patchutil/patches/VER_20250409_ESMA_INIT_V01/OTHER/SOURCE/FULINS_E_20171015_01of02.zip</str>
+      <str name="file_name">FULINS_E_20171015_01of02.zip</str>
+      <str name="file_type">FULINS</str>
+    </doc>
+    <doc>
+      <str name="download_link">/opt/patchutil/patches/VER_20250409_ESMA_INIT_V01/OTHER/SOURCE/FULINS_R_20171015_01of06.zip</str>
+      <str name="file_name">FULINS_R_20171015_01of06.zip</str>
+      <str name="file_type">FULINS</str>
+    </doc>
+    <doc>
+      <str name="download_link">/opt/patchutil/patches/VER_20250409_ESMA_INIT_V01/OTHER/SOURCE/FULINS_R_20171015_02of06.zip</str>
+      <str name="file_name">FULINS_R_20171015_02of06.zip</str>
+      <str name="file_type">FULINS</str>
+    </doc>
+    <doc>
+      <str name="download_link">/opt/patchutil/patches/VER_20250409_ESMA_INIT_V01/OTHER/SOURCE/FULINS_R_20171015_04of06.zip</str>
+      <str name="file_name">FULINS_R_20171015_04of06.zip</str>
+      <str name="file_type">FULINS</str>
+    </doc>
+  </result>
+</response>
